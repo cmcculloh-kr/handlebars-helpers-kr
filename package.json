@@ -85,7 +85,7 @@
     "handlebars-utils": "^1.0.6",
     "has-value": "^1.0.0",
     "helper-date": "^1.0.1",
-    "helper-markdown": "^1.0.0",
+    "helper-markdown-kr": "^1.0.1",
     "helper-md": "^0.2.2",
     "html-tag": "^2.0.0",
     "is-even": "^1.0.0",
